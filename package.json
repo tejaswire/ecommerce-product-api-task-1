@@ -1,4 +1,7 @@
 {
     "status": "UP",
-    "environment": "DEV"
+    "environment": "DEV",
+    "dependencies": {
+        "express": "^5.2.1"
+    }
 }

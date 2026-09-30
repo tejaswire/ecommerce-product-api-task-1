@@ -3,3 +3,6 @@ npm-debug.log
 .git
 .gitignore
 README.md
+
+node_modules/
+.env
